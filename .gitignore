@@ -94,3 +94,6 @@ media/
 
 # Venv
 venv/
+
+# pokemon json
+pokemon_entities/pokemons.json
